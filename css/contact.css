@@ -1,0 +1,27 @@
+/* ==============HEADER ============*/
+header {
+    margin-bottom: 48px;
+}
+/*===========CONTACT FORM==============*/
+
+#contact-form {
+    text-align: center;
+    
+}
+
+#contact-form iframe {
+    min-height: 780px;
+   
+}
+
+/*===============GOOOGLE MAP ==============*/
+#google-map-container, #contact-form {
+    width: 45%;
+    float: left;
+}
+
+
+#google-map-container iframe {
+    width: 450px;
+    height:400px;
+}

@@ -1,0 +1,59 @@
+h1 {
+    color: #000;
+}
+
+button.me {
+    
+    background-color: #ff84ff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 15px;
+    color: white;
+    font-size: 18px 15px;
+}
+
+main {
+    width: 100%;
+}
+
+
+.column {
+    float: left;
+    width: 33.3%;
+    text-align: justify;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    
+    
+}
+
+#col-1 button {
+    
+    background-color: #33cccc;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 15px;
+    color: white;
+    font-size: 18px 15px;
+}
+
+#col-2 button {
+    
+    background-color: #990000;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 15px;
+    color: black;
+    font-size: 18px 15px;
+}
+
+#col-3 button {
+    
+    background-color: #9933ff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 15px;
+    color: pink;
+    font-size: 18px 15px;
+}
+
